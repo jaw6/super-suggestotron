@@ -18,7 +18,7 @@ Sounds like Suggestotron, right? If you squint at `topics`, they are kind of lik
 So, here's what I'll do:
 
 * Make a list of things we'd like this app to do
-* File [Issues]() in this repository with those things
+* File [Issues](issues) in this repository with those things
 * Label each issue with helpful tags, like the likely difficulty level
 
 This is where **you** get involved and help make things happen:
