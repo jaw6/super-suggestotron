@@ -27,6 +27,8 @@ This is where **you** get involved and help make things happen:
 * Fork the repository
 * Submit a Pull Request
 
+(If you're confused about forking and pulling on GitHub, check out [Git-It](https://github.com/jlord/git-it) which is a great introduction to git and GitHub.)
+
 If you're a mentor, or not a novice Rails developer, you could help:
 
 * See features that could use work? Submit more issues!
